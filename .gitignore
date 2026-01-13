@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Spreadsheets / local files
+*.numbers
+*.xlsx
+*.xls
+
+# Python / misc
+__pycache__/

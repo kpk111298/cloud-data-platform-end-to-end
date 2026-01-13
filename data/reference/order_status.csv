@@ -1,0 +1,4 @@
+order_status,description,is_active
+DELIVERED,Order delivered successfully,TRUE
+SHIPPED,Order shipped but not delivered,TRUE
+CANCELLED,Order was cancelled,FALSE

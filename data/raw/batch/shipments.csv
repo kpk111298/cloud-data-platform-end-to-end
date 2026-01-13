@@ -1,0 +1,4 @@
+shipment_id,order_id,shipment_status,shipped_date,delivered_date
+5001,1001,DELIVERED,2023-05-02,2023-05-05
+5002,1002,IN_TRANSIT,2023-05-04,
+5003,1003,DELIVERED,2023-05-06,2023-05-09
